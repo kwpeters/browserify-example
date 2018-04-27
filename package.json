@@ -1,0 +1,23 @@
+{
+  "name": "browserify-example",
+  "version": "1.0.0",
+  "description": "A trivial Browserify example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwpeters/browserify-example.git"
+  },
+  "keywords": [
+    "browserify",
+    "example"
+  ],
+  "author": "Kevin Peters <kwpeters@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwpeters/browserify-example/issues"
+  },
+  "homepage": "https://github.com/kwpeters/browserify-example#readme"
+}
